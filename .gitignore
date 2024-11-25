@@ -176,6 +176,9 @@ $RECYCLE.BIN/
 .gradle
 **/build/
 !src/**/build/
+docker-compose.yml
+src/main/resources/application.yml
+application.yml
 
 # Ignore Gradle GUI config
 gradle-app.setting
